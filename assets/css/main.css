@@ -85,8 +85,8 @@ img {
   color: #282828;
   margin-top: 10px;
   font-size: 18px;
-  margin-left: 140px;
-  margin-right: 140px;
+  margin-left: 250px;
+  margin-right: 250px;
   /* font-size: 1.25rem; */
 }
 
@@ -171,11 +171,40 @@ img {
   color: inherit; /* 기본 텍스트 색상 유지 */
 }
 
+.transparent-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.transparent-table td {
+  padding: 10px;
+  border: none;
+}
+
+.transparent-table tr {
+  background-color: rgba(255, 255, 255, 0.1); /* 약간의 투명도를 가진 배경색 */
+}
+
+.transparent-table td:first-child {
+  width: 20%;
+  font-weight: bold; /* 날짜 강조 */
+}
+
+.transparent-table td:last-child {
+  width: 80%;
+  text-align: left;
+}
+
+.transparent-table td {
+  padding: 10px 20px;
+}
+
 
 .section {
-  background-color:red;
+  background-color:rgb(255, 255, 255);
   max-width: 80%;
-  margin: 30px auto;
+  margin-left: 250px;
+  margit-right: 250px;
   padding: 20px 0;
   min-height: 30vh;
   display: flex;
