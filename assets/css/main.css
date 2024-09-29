@@ -34,7 +34,7 @@ img {
   -webkit-transition: color ease-in-out 0.3s;
   transition: color ease-in-out 0.3s;
   font-size: 56px;
-  font-size: 3.5rem;
+  font-size: 2.8rem;
   font-family: 'PT sans', sans-serif;
   font-weight: bold;
   color: #81a2ec;
@@ -84,10 +84,9 @@ img {
   text-align: left;
   color: #282828;
   margin-top: 10px;
-  font-size: 18px;
-  margin-left: 250px;
-  margin-right: 250px;
-  /* font-size: 1.25rem; */
+  font-size: 1rem;
+  margin-left: 25%;
+  margin-right: 25%;
 }
 
 .head-buttons {
@@ -204,8 +203,8 @@ img {
 .section {
   background-color:rgb(255, 255, 255);
   max-width: 80%;
-  margin-left: 250px;
-  margin-right: 250px;
+  margin-left: 25%;
+  margin-right: 25%;
   padding: 20px 0;
   min-height: 30vh;
   display: flex;
@@ -236,12 +235,10 @@ img {
 
 .section-heading {
   text-align: left;
-  margin-bottom: 30px;
-  font-family: 'PT Sans', sans-serif;
-  font-size: 40px;
-  font-size: 2.5rem;
+  margin-bottom: 20px;
+  font-family: 'Nunito', sans-serif;
+  font-size: 2rem;
   color: #222;
-  font-weight: bold;
 }
 
 .nav-links {
@@ -562,7 +559,7 @@ a {
   .head-title {
     display: block;
     text-align: center;
-    font-size: 2.75rem;
+    font-size: 2.8rem;
   }
   
   /* .head-punchline {
