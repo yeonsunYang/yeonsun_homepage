@@ -165,9 +165,8 @@ img {
 }
 
 .highlight_info {
-  background-color: rgba(198, 198, 116, 0.5); /* 노란색 형광펜 효과 */
-  padding: 2px 4px; /* 약간의 패딩으로 강조 */
-  border-radius: 3px; /* 둥근 모서리 */
+  background-color: rgb(207 207 207 / 50%);
+  border-radius: 15px; 
   text-decoration: none; /* 밑줄 제거 */
   color: inherit; /* 기본 텍스트 색상 유지 */
 }
