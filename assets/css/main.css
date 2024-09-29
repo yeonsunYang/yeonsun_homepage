@@ -165,7 +165,7 @@ img {
 }
 
 .highlight_info {
-  background-color: rgb(207 207 207 / 50%);
+  background-color: rgb(248 238 175 / 50%);
   border-radius: 15px; 
   text-decoration: none; /* 밑줄 제거 */
   color: inherit; /* 기본 텍스트 색상 유지 */
