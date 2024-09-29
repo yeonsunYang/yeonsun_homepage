@@ -12,7 +12,7 @@ img {
 .head {
 
   color: #fff;
-  min-height: 23vh;
+  min-height: 40vh;
 
   display: -webkit-box;
 
@@ -26,8 +26,7 @@ img {
       -ms-flex-pack: center;
           justify-content: center;
   position: relative;
-
-  background: rgb(74, 177, 233);
+  background-color: aquamarine;
 }
 
 .head-title {
