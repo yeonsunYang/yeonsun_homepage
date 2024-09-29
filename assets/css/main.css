@@ -187,7 +187,7 @@ img {
 .transparent-table td:first-child {
   width: 8%;
   font-size: 0.9rem;
-  color: #81a2ec;
+  color: #6f97ee;
   text-align: center;
 }
 
@@ -249,7 +249,7 @@ img {
 }
 
 .section-wrapper:nth-child(odd) {
-  background: url(../images/background.png);
+  background-color: rgb(189, 192, 198);
   background-repeat: repeat;
 }
 
