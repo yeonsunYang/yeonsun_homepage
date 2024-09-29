@@ -164,7 +164,7 @@ img {
   max-width: 100%;
 }
 
-.highlight-background {
+.highlight-info {
   background-color: rgba(198, 198, 116, 0.5); /* 노란색 형광펜 효과 */
   padding: 2px 4px; /* 약간의 패딩으로 강조 */
   border-radius: 3px; /* 둥근 모서리 */
