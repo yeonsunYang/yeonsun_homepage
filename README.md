@@ -10,8 +10,6 @@ A simple and modern portfolio template that is lightweight, mobile responsive an
 ### Demo
 [abhn.github.io/portfolio](https://abhn.github.io/portfolio)
 
-### Screenshots
-![homepage](tmp/screenshot.jpg?raw=true "Homepage")
 
 ### Features
 - Single page portfolio made with vanilla CSS and jQuery

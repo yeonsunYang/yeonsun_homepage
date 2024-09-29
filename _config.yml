@@ -1,21 +1,21 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: Yeonsun Yang
+description: Ph.D Student
+site_title: 'Yeonsun Yang'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
+github_username: yeonsunyang
 blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
+email: yangyeonsun98@gmail.com
 keybase_username: abhn
 twitter_username: abhn_
 reddit_username: abhn
 
 # absolute or relative
-profile_picture: assets/images/pp.jpg
+profile_picture: assets/images/ys.jpg
 
 # Google Analytics ID
 google_analytics: 
