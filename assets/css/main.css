@@ -35,7 +35,7 @@ img {
   transition: color ease-in-out 0.3s;
   font-size: 56px;
   font-size: 3.5rem;
-  font-family: 'PT sans', sans-serif;
+  font-family: 'Nunito', sans-serif;
   font-weight: bold;
   color: #81a2ec;
 }
@@ -81,12 +81,12 @@ img {
 
 .head-punchline {
   font-family: 'Nunito', sans-serif;
-  text-align: center;
+  text-align: left;
   color: #282828;
   margin-top: 10px;
   font-size: 18px;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 140px;
+  margin-right: 140px;
   /* font-size: 1.25rem; */
 }
 
@@ -166,12 +166,15 @@ img {
 
 .section {
   background-color:red;
-  max-width: 300px;
-  margin: 60px auto;
+  max-width: 80%;
+  margin: 30px auto;
   padding: 20px 0;
   min-height: 30vh;
+  display: flex;
+  align-items: flex-start; /* 세로 방향 상단 정렬 */
+  justify-content: flex-start; /* 가로 방향 왼쪽 정렬 */
 
-  display: -webkit-box;
+  /* display: -webkit-box;
 
   display: -ms-flexbox;
 
@@ -181,7 +184,7 @@ img {
           align-items: center;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
-          justify-content: center;
+          justify-content: flex-start; */
 }
 
 .section.skills > div {
@@ -194,9 +197,9 @@ img {
 }
 
 .section-heading {
-  text-align: center;
+  text-align: left;
   margin-bottom: 30px;
-  font-family: 'PT Sans', Arial, Helvetica, sans-serif;
+  font-family: 'PT Sans', sans-serif;
   font-size: 40px;
   font-size: 2.5rem;
   color: #222;
@@ -403,6 +406,7 @@ img {
       -ms-flex-pack: center;
           justify-content: center;
   margin-bottom: 20px;
+  margin-top: 10px;
 }
 
 .experience-details {
@@ -523,9 +527,9 @@ a {
     font-size: 2.75rem;
   }
   
-  .head-punchline {
-    text-align: center;
-  }
+  /* .head-punchline {
+    text-align: left;
+  } */
 
   .skills-grid {
     -ms-grid-columns: 100%;
