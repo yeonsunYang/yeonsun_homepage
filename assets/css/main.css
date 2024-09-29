@@ -1,7 +1,7 @@
 body {
   min-width: 360px;
-  font-family: 'PT Sans', sans-serif;
-  font-size: 16px;
+  font-family: 'Nunito', sans-serif;
+  font-size: 17px;
 }
 
 img {
@@ -186,17 +186,18 @@ img {
 }
 
 .transparent-table td:first-child {
-  width: 20%;
-  font-weight: bold; /* 날짜 강조 */
+  width: 15%;
+  font-weight: bold;
+  text-align: center;
 }
 
 .transparent-table td:last-child {
-  width: 80%;
+  width: 40%;
   text-align: left;
 }
 
 .transparent-table td {
-  padding: 10px 20px;
+  padding: 5px 5px;
 }
 
 
@@ -204,7 +205,7 @@ img {
   background-color:rgb(255, 255, 255);
   max-width: 80%;
   margin-left: 250px;
-  margit-right: 250px;
+  margin-right: 250px;
   padding: 20px 0;
   min-height: 30vh;
   display: flex;
