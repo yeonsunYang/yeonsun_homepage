@@ -83,8 +83,8 @@ img {
   text-align: center;
   color: #fff;
   margin-top: 10px;
-  font-size: 20px;
-  font-size: 1.25rem;
+  font-size: 15px;
+  /* font-size: 1.25rem; */
 }
 
 .head-buttons {
@@ -427,7 +427,7 @@ img {
 }
 
 a {
-  color: #222;
+  color: #ffffff;
 }
 
 .extra-links {
@@ -440,7 +440,7 @@ a {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  margin-top: 80px;
+  margin-top: 40px;
 }
 
 .head-inner-wrap {
