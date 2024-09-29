@@ -1,7 +1,7 @@
 body {
   min-width: 360px;
   font-family: 'Nunito', sans-serif;
-  font-size: 17px;
+  font-size: 1rem;
 }
 
 img {
@@ -185,18 +185,20 @@ img {
 }
 
 .transparent-table td:first-child {
-  width: 15%;
-  font-weight: bold;
+  width: 8%;
+  font-size: 0.9rem;
+  color: #81a2ec;
   text-align: center;
 }
 
 .transparent-table td:last-child {
-  width: 40%;
+  width: 50%;
+  font-size: 0.9rem;
   text-align: left;
 }
 
 .transparent-table td {
-  padding: 5px 5px;
+  padding: 1px 1px;
 }
 
 
