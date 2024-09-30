@@ -397,7 +397,7 @@ img {
 }
 
 .paper-image img {
-  width: 50px; /* 원하는 크기에 맞게 조정하세요 */
+  width: 10%; /* 원하는 크기에 맞게 조정하세요 */
   height: auto;
   border-radius: 8px;
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
