@@ -327,12 +327,22 @@ img {
   padding-right: 10px;
 }
 
+/* 모바일에서 폰트 크기 줄이기 */
+@media (max-width: 768px) {
+  .footer {
+    font-size: 12px; /* 모바일에서 폰트 크기 감소 */
+  }
+}
+
+
 .footer-left {
   text-align: left; /* Contact와 메일은 왼쪽 정렬 */
+  margin-left: 30px;
 }
 
 .footer-right {
   text-align: right; /* 최근 업데이트는 오른쪽 정렬 */
+  margin-right: 30px;
 }
 
 
