@@ -434,15 +434,17 @@ img {
 }
 
 .btn-link {
-  display: flex; /**/
+
   text-decoration: none;
   background-color: #e0e0e0;
-  padding: 6px 6px;
+  padding-top: 5px;
+  padding-left:5px;
+  padding-right:5px;
   border-radius: 6px;
   color: #000;
-  margin-right: 6px;
+  margin-right: 3px;
   transition: background-color 0.3s ease;
-  font-size: 0.8rem;
+  font-size: 0.7rem;
 }
 
 .btn-link:hover {
