@@ -330,7 +330,10 @@ img {
 /* 모바일에서 폰트 크기 줄이기 */
 @media (max-width: 768px) {
   .footer {
-    font-size: 12px; /* 모바일에서 폰트 크기 감소 */
+    font-size: 10px; /* 모바일에서 폰트 크기 감소 */
+    margin-left: 0; /* 좌측 마진 제거 */
+    margin-right: 0; /* 우측 마진 제거 */
+    max-width: 100%; /* 화면을 꽉 채움 */
   }
 }
 
