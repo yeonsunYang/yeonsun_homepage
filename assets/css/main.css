@@ -320,8 +320,11 @@ img {
 
 .footer {
   display: flex;
-  justify-content: space-between; /* 좌우로 나누어 배치 */
-  padding: 20px;
+  justify-content: space-between; 
+  padding-top: 80px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .footer-left {
