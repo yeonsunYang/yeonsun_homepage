@@ -213,18 +213,17 @@ img {
   align-items: flex-start; /* 세로 방향 상단 정렬 */
   justify-content: flex-start; /* 가로 방향 왼쪽 정렬 */
 
-  /* display: -webkit-box;
-
-  display: -ms-flexbox;
-
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: flex-start; */
 }
+
+@media (max-width: 768px) {
+  .section {
+    margin-left: 0; /* 좌측 마진 제거 */
+    margin-right: 0; /* 우측 마진 제거 */
+    max-width: 100%; /* 화면을 꽉 채움 */
+    padding: 20px 10px; /* 패딩을 줄여서 모바일에 맞게 조정 */
+  }
+}
+
 
 .section.skills > div {
   width: 100%;
