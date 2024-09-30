@@ -411,13 +411,13 @@ img {
 }
 
 .paper-info h2 {
-  font-size: 1.5rem;
-  color: #4a8b9d;
+  font-size: 1rem;
+  color: #6f97ee;
   margin: 0 0 10px 0;
 }
 
 .paper-info p {
-  font-size: 1rem;
+  font-size: 0.8rem;
   color: #666;
   margin: 5px 0;
 }
@@ -429,12 +429,12 @@ img {
 .btn-link {
   text-decoration: none;
   background-color: #e0e0e0;
-  padding: 10px 15px;
-  border-radius: 5px;
+  padding: 6px 6px;
+  border-radius: 6px;
   color: #000;
-  font-weight: bold;
-  margin-right: 10px;
+  margin-right: 6px;
   transition: background-color 0.3s ease;
+  font-size: 0.8rem;
 }
 
 .btn-link:hover {
