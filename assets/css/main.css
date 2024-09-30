@@ -311,17 +311,17 @@ img {
 }
 
 .footer {
-  background-color: #fff; /* 배경색을 흰색으로 설정 */
   display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 80px; /* 높이를 더 높게 설정 */
-  color: #000; /* 텍스트 색상을 검정으로 설정 */
-  font-family: 'PT Sans', Arial, Helvetica, sans-serif;
-  background-repeat: no-repeat; /* 배경 이미지를 제거 (원한다면 유지 가능) */
-  background-attachment: fixed;
-  padding: 10px 20px; /* 약간의 패딩 추가 */
-  text-align: center; /* 텍스트 가운데 정렬 */
+  justify-content: space-between; /* 좌우로 나누어 배치 */
+  padding: 20px;
+}
+
+.footer-left {
+  text-align: left; /* Contact와 메일은 왼쪽 정렬 */
+}
+
+.footer-right {
+  text-align: right; /* 최근 업데이트는 오른쪽 정렬 */
 }
 
 
