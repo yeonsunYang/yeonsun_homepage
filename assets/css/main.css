@@ -256,7 +256,7 @@ img {
   font-weight: bold;
 }
 
-.section-wrapper:nth-child(odd) {
+.section-wrapper:nth-child(even) {
   background-color: rgb(189, 192, 198);
   background-repeat: repeat;
 }
