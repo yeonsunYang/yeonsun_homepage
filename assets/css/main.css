@@ -85,8 +85,8 @@ img {
   color: #282828;
   margin-top: 10px;
   font-size: 1rem;
-  margin-left: 15%;
-  margin-right: 15%;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 @media (max-width: 768px) {
@@ -195,14 +195,14 @@ img {
 
 .transparent-table td:first-child {
   width: 8%;
-  font-size: 0.9rem;
+  font-size: 1rem;
   color: #6f97ee;
   text-align: left;
 }
 
 .transparent-table td:last-child {
   width: 50%;
-  font-size: 0.9rem;
+  font-size: 1rem;
   text-align: left;
 }
 
@@ -214,8 +214,8 @@ img {
 .section {
   background-color:transparent;
   max-width: 80%;
-  margin-left: 15%;
-  margin-right: 15%;
+  margin-left: 20%;
+  margin-right: 20%;
   padding: 40px 0;
   min-height: 30vh;
   display: flex;
