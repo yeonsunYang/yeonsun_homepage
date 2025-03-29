@@ -1,62 +1,34 @@
 <div class="section-wrapper">
     <section class="section about" id="about">
         <div id="about-text">
-            <div class="section-heading">News</div>
-            <table class="transparent-table">
-                <tr>
-                    <td>Nov 2024</td>
-                    <td>Invited talk in Intro to Social Computing @Yonsei Univ🎙️ An inspiring first formal talk experience!</td>
-                  </tr>
-                  <tr>
-                    <td>Oct 2024</td>
-                    <td>Attending the Workshop on Ubiquitous Affective Computing and Health Informatics @KAIST 🇰🇷</td>
-                  </tr>
-                <tr>
-                  <td>Sep 2024</td>
-                  <td>Submitted my second first-author full paper to CHI 🎉</td>
-                </tr>
-                <tr>
-                  <td>Jul 2024</td>
-                  <td>SV-ing SIGCHI Korea Local Chapter 2024 🇰🇷</td>
-                </tr>
-                <tr>
-                  <td>May 2024</td>
-                  <td>Attending CHI 2024 🌺🇺🇸 for a presentation and SV-ing. Excited for my first on-site international conference!</td>
-                </tr>
-                <tr>
-                  <td>Jan 2024</td>
-                  <td>Attending HCI Korea 2024 🇰🇷</td>
-                </tr>
-                <tr>
-                  <td>Jan 2024</td>
-                  <td>Our paper 📄 “Find the Bot!: Gamifying Facial Emotion Recognition for Both Human Training and Machine Learning Data Collection” is accepted to CHI 2024!</td>
-                </tr>
-                <tr>
-                  <td>Sep 2023</td>
-                  <td>Submitted my first first-author full paper to CHI successfully 🎉</td>
-                </tr>
-                <tr>
-                  <td>Aug 2023</td>
-                  <td>Attending KCCV 2023 🇰🇷</td>
-                </tr>
-                <tr>
-                  <td>Feb 2023</td>
-                  <td>Attending HCI Korea 2023 🇰🇷</td>
-                </tr>
-                <tr>
-                  <td>Jul 2022</td>
-                  <td>Attending SIGCHI Korea Local Chapter 2022 🇰🇷</td>
-                </tr>
-                <tr>
-                  <td>Apr 2022</td>
-                  <td>Attending CHI 2022 virtually 👩‍💻</td>
-                </tr>
-                <tr>
-                  <td>Feb 2022</td>
-                  <td>Joined the DIA Group @DGIST 💼</td>
-                </tr>
+            <div class="section-heading">News</div>  
+              <table class="transparent-table">
+                <tbody>
+                  <!-- 항상 보이는 최근 뉴스 -->
+                  <tr><td>Nov 2024</td><td>Invited talk in Intro to Social Computing @Yonsei Univ🎙️</td></tr>
+                  <tr><td>Oct 2024</td><td>Attending the Workshop on Ubiquitous Affective Computing @KAIST 🇰🇷</td></tr>
+                  <tr><td>Sep 2024</td><td>Submitted my second first-author full paper to CHI 🎉</td></tr>
+                  <tr><td>Jul 2024</td><td>SV-ing SIGCHI Korea Local Chapter 2024 🇰🇷</td></tr>
+                  <tr><td>May 2024</td><td>Attending CHI 2024 🌺🇺🇸</td></tr>
+                  <tr><td>Jan 2024</td><td>Attending HCI Korea 2024 🇰🇷</td></tr>
+                </tbody>
+              
+                <!-- 접기/펼치기 영역 -->
+                <tbody id="older-news" style="display: none;">
+                  <tr><td>Jan 2024</td><td>Our paper is accepted to CHI 2024!</td></tr>
+                  <tr><td>Sep 2023</td><td>Submitted my first first-author full paper to CHI 🎉</td></tr>
+                  <tr><td>Aug 2023</td><td>Attending KCCV 2023 🇰🇷</td></tr>
+                  <tr><td>Feb 2023</td><td>Attending HCI Korea 2023 🇰🇷</td></tr>
+                  <tr><td>Jul 2022</td><td>Attending SIGCHI Korea Local Chapter 2022 🇰🇷</td></tr>
+                  <tr><td>Apr 2022</td><td>Attending CHI 2022 virtually 👩‍💻</td></tr>
+                  <tr><td>Feb 2022</td><td>Joined the DIA Group @DGIST 💼</td></tr>
+                </tbody>
               </table>
               
+              <!-- 버튼 추가 -->
+              <button onclick="toggleNews()" id="toggle-button">Show Previous News</button>
+              
+
             <!-- <p class="paragraph-text justify-text">
                 Sep 2024 Submitted my second first-author full paper to CHI  🎉 <br>
                 Jul 2024 SV-ing SIGCHI Korea Local Chapter 2024 🇰🇷 <br>
@@ -79,3 +51,17 @@
         </div>
     </section>
 </div>
+
+<script>
+  function toggleNews() {
+    const olderNews = document.getElementById('older-news');
+    const button = document.getElementById('toggle-button');
+    if (olderNews.style.display === 'none') {
+      olderNews.style.display = 'table-row-group';
+      button.textContent = 'Hide Previous News';
+    } else {
+      olderNews.style.display = 'none';
+      button.textContent = 'Show Previous News';
+    }
+  }
+</script>
