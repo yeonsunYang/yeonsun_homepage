@@ -1,9 +1,9 @@
 <div class="section-wrapper">
     <section class="section about" id="about">
         <div id="about-text">
-            <div class="section-heading">News</div>  
+            <div class="section-heading">News</div>
+              
               <table class="transparent-table">
-                <tbody>
                   <!-- 항상 보이는 최근 뉴스 -->
                   <tr><td>Nov 2024</td><td>Invited talk in Intro to Social Computing @Yonsei Univ🎙️</td></tr>
                   <tr><td>Oct 2024</td><td>Attending the Workshop on Ubiquitous Affective Computing @KAIST 🇰🇷</td></tr>
@@ -11,7 +11,6 @@
                   <tr><td>Jul 2024</td><td>SV-ing SIGCHI Korea Local Chapter 2024 🇰🇷</td></tr>
                   <tr><td>May 2024</td><td>Attending CHI 2024 🌺🇺🇸</td></tr>
                   <tr><td>Jan 2024</td><td>Attending HCI Korea 2024 🇰🇷</td></tr>
-                </tbody>
               
                 <!-- 접기/펼치기 영역 -->
                 <tbody id="older-news" style="display: none;">
@@ -51,17 +50,3 @@
         </div>
     </section>
 </div>
-
-<script>
-  function toggleNews() {
-    const olderNews = document.getElementById('older-news');
-    const button = document.getElementById('toggle-button');
-    if (olderNews.style.display === 'none') {
-      olderNews.style.display = 'table-row-group';
-      button.textContent = 'Hide Previous News';
-    } else {
-      olderNews.style.display = 'none';
-      button.textContent = 'Show Previous News';
-    }
-  }
-</script>
