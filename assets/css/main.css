@@ -85,8 +85,8 @@ img {
   color: #282828;
   margin-top: 10px;
   font-size: 1rem;
-  margin-left: 25%;
-  margin-right: 25%;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
 @media (max-width: 768px) {
@@ -214,8 +214,8 @@ img {
 .section {
   background-color:transparent;
   max-width: 80%;
-  margin-left: 25%;
-  margin-right: 25%;
+  margin-left: 15%;
+  margin-right: 15%;
   padding: 40px 0;
   min-height: 30vh;
   display: flex;
@@ -257,7 +257,7 @@ img {
 }
 
 .section-wrapper:nth-child(even) {
-  background-color: rgb(189, 192, 198);
+  background-color: rgb(255, 255, 255);
   background-repeat: repeat;
 }
 
