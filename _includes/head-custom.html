@@ -5,8 +5,9 @@
 {% include head-custom-google-analytics.html %}
 
 <!-- You can set your favicon here -->
-{% if site.favicon %}
-  <link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
-{% endif %}
+<link rel="icon" type="image/svg+xml" href="{{ '/assets/img/favicon.svg' | relative_url }}?v=1">
+<link rel="alternate icon" type="image/svg+xml" href="{{ '/assets/img/favicon.svg' | relative_url }}?v=1">
+<link rel="shortcut icon" href="{{ '/assets/img/favicon.svg' | relative_url }}?v=1">
+<link rel="apple-touch-icon" href="{{ '/assets/img/favicon.svg' | relative_url }}?v=1">
 
 <!-- end custom head snippets -->

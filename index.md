@@ -2,122 +2,121 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I’m in the 4th year of a combined master's and Ph.D. program in <a href="https://www.dgist.ac.kr/en_eecs/" class="highlight_info" target="_blank">Electrical Engineering and Computer Science</a> at DGIST. I work with <a href="https://jyskwon.github.io/" class="highlight_info" target="_blank">Prof. Jean Young Song</a> at <a href="https://diag.kr/" class="highlight_info" target="_blank">DIAG (Designing Intelligence Augmentation Group)</a>, Yonsei University. Previously, I was a research intern at <a href="https://clova.ai/ai-research" class="highlight_info" target="_blank">NAVER AI Lab</a>, mentored by <a href="https://younghokim.net/" class="highlight_info" target="_blank">Dr. Young-Ho Kim</a>. 
 
-[Link to another page](./another-page.html).
+I aim to support both humans and machines in learning to foster the skills, mindsets, and behaviors needed for well-being in daily life. To achieve this, my research focuses on creating web-based interactive learning systems that maximize learning outcomes through collaborative synergy in both human-human and human-machine interactions, enhancing engagement and personalizing experiences. 
+## News
 
-There should be whitespace between paragraphs.
+<div class="news-box">
+<p><span class="news-date">Nov 2025</span> New chapter with DIAG Lab at Yonsei Univ in Songdo 🏙️</p>
+<p><span class="news-date">Mar 2025</span> Thrilled to start a research internship @NAVER AI Lab 💼</p>
+<p><span class="news-date">Feb 2025</span> Passed my Ph.D. qualifying exam 🎓</p>
+<p><span class="news-date">Nov 2024</span> Invited talk in Intro to Social Computing @Yonsei Univ 🎙️</p>
+<p><span class="news-date">Oct 2024</span> Attending the Workshop on Ubiquitous Affective Computing @KAIST 🇰🇷</p>
+<p><span class="news-date">Jul 2024</span> SV-ing SIGCHI Korea Local Chapter 2024 🇰🇷</p>
+<p><span class="news-date">May 2024</span> Attending CHI 2024 🌺🇺🇸</p>
+<p><span class="news-date">Jan 2024</span> Attending HCI Korea 2024 🇰🇷</p>
+<p><span class="news-date">Jan 2024</span> Our paper is accepted to CHI 2024!</p>
+<p><span class="news-date">Sep 2023</span> Submitted my first first-author full paper to CHI 🎉</p>
+<p><span class="news-date">Aug 2023</span> Attending KCCV 2023 🇰🇷</p>
+<p><span class="news-date">Feb 2023</span> Attending HCI Korea 2023 🇰🇷</p>
+<p><span class="news-date">Jul 2022</span> Attending SIGCHI Korea Local Chapter 2022 🇰🇷</p>
+<p><span class="news-date">Apr 2022</span> Attending CHI 2022 virtually 👩‍💻</p>
+<p><span class="news-date">Feb 2022</span>Joined the DIA Group @DGIST 💼</p>
+</div>
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<hr>
 
-# Header 1
+## Archived Preprints
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+<div class="paper-item">
+  <div class="paper-image">
+    <div class="paper-image-link" data-image="/assets/img/lingoq_teaser.jpg">
+      <img src="/assets/img/lingoq_teaser.jpg" alt="Paper thumbnail">
+      <div class="image-overlay">
+        <i class="fa-solid fa-magnifying-glass-plus"></i>
+      </div>
+    </div>
+  </div>
+  <div class="paper-content">
+    <div class="paper-title"><strong>LingoQ: Bridging the Gap between ESL Learning and Work through AI-Generated Work-Related Quizzes</strong></div>
+    <div class="paper-authors"><span class="author-name">Yeonsun Yang</span>, Sang Won Lee, Jean Y. Song, Sangdoo Yun, and Young-Ho Kim</div>
+    <div class="paper-venue">
+      Nonarchival preprint
+      <span class="paper-links">
+        <a href="/assets/pdf/LingoQ.pdf" class="paper-link" target="_blank">PDF</a>
+        <a href="https://arxiv.org/abs/2509.17477" class="paper-link" target="_blank">arXiv</a>
+        <a href="https://www.youtube.com/watch?v=gfvj9d8lVZo" class="paper-link" target="_blank">Demo video</a>
+      </span>
+    </div>
+  </div>
+</div>
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+<div class="paper-item">
+  <div class="paper-image">
+    <div class="paper-image-link" data-image="/assets/img/SAL_teaser.png">
+      <img src="/assets/img/SAL_teaser.png" alt="Paper thumbnail">
+      <div class="image-overlay">
+        <i class="fa-solid fa-magnifying-glass-plus"></i>
+      </div>
+    </div>
+  </div>
+  <div class="paper-content">
+    <div class="paper-title"><strong>Can We Delegate Learning to Automation?: A Comparative Study of LLM Chatbots, Search Engines, and Books</strong></div>
+    <div class="paper-authors"><span class="author-name">Yeonsun Yang</span>, Ahyeon Shin, Mincheol Kang, Jiheon Kang, and Jean Y. Song</div>
+    <div class="paper-venue">Nonarchival preprint
+     <span class="paper-links">
+        <a href="/assets/pdf/SAL.pdf" class="paper-link" target="_blank">PDF</a>
+        <a href="https://arxiv.org/abs/2410.01396" class="paper-link" target="_blank">arXiv</a>
+        <a href="https://github.com/diag-dgist/SAL_Logger" class="paper-link" target="_blank">GitHub</a>
+      </span>
+    </div>
+  </div>
+</div>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+
+## International Conference Papers
+
+<div class="paper-item">
+  <div class="paper-image">
+    <div class="paper-image-link" data-image="/assets/img/FTB_teaser.png">
+      <img src="/assets/img/FTB_teaser.png" alt="Paper thumbnail">
+      <div class="image-overlay">
+        <i class="fa-solid fa-magnifying-glass-plus"></i>
+      </div>
+    </div>
+  </div>
+  <div class="paper-content">
+    <div class="paper-title"><strong>Find the Bot!: Gamifying Facial Emotion Recognition for Both Human Training and Machine Learning Data Collection</strong></div>
+    <div class="paper-authors"><span class="author-name">Yeonsun Yang</span>, Ahyeon Shin, Nayoung Kim, Huidam Woo, John Joon Young Chung, and Jean Y. Song</div>
+    <div class="paper-venue">
+      ACM CHI 2024
+      <span class="paper-links">
+        <a href="https://dl.acm.org/doi/10.1145/3613904.3642880" class="paper-link" target="_blank">DOI</a>
+        <a href="/assets/pdf/Find_the_bot.pdf" class="paper-link" target="_blank">PDF</a>
+        <a href="https://github.com/diag-dgist/FindtheBot" class="paper-link" target="_blank">GitHub</a>
+        <a href="https://youtu.be/vjxHJvrnhFk" class="paper-link" target="_blank">Demo video</a>
+        <a href="https://youtu.be/owZIcnf9mhw?si=jep2gEx9L3oaa7dr" class="paper-link" target="_blank">Presentation</a>
+      </span>
+    </div>
+  </div>
+</div>
+
+## Domestic Conference Papers
+
+<div class="paper-item">
+  <div class="paper-content">
+    <div class="paper-title"><strong>Analysis of Question-and-Answer Interactions with LLM-based Chatbots in Concept Learning: an Academic Performance Perspective</strong></div>
+    <div class="paper-authors"><span class="author-name">Yeonsun Yang*</span>, Ahyeon Shin*, and Jean Y. Song (* Equal contribution)</div>
+    <div class="paper-venue">HCI Korea 2025
+    <span class="paper-links">
+        <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12131618" class="paper-link" target="_blank">DOI</a>
+      </span>
+    </div>
+  </div>
+</div>
+
+
