@@ -8,7 +8,7 @@ I aim to support both humans and machines in learning to foster the skills, mind
 ## News
 
 <div class="news-box">
-<p><span class="news-date">Dec 2025</span> Our paper is conditionally accepted to IUI 2026!🥳</p>
+<p><span class="news-date">Dec 2025</span> Our paper is conditionally accepted to IUI 2026! 🥳</p>
 <p><span class="news-date">Nov 2025</span> New chapter with DIAG Lab at Yonsei Univ in Songdo 🏙️</p>
 <p><span class="news-date">Mar 2025</span> Thrilled to start a research internship @NAVER AI Lab 💼</p>
 <p><span class="news-date">Feb 2025</span> Passed my Ph.D. qualifying exam 🎓</p>
@@ -17,7 +17,7 @@ I aim to support both humans and machines in learning to foster the skills, mind
 <p><span class="news-date">Jul 2024</span> SV-ing SIGCHI Korea Local Chapter 2024 🇰🇷</p>
 <p><span class="news-date">May 2024</span> Attending CHI 2024 🌺🇺🇸</p>
 <p><span class="news-date">Jan 2024</span> Attending HCI Korea 2024 🇰🇷</p>
-<p><span class="news-date">Jan 2024</span> Our paper is accepted to CHI 2024!🥳</p>
+<p><span class="news-date">Jan 2024</span> Our paper is accepted to CHI 2024! 🥳</p>
 <p><span class="news-date">Sep 2023</span> Submitted my first first-author full paper to CHI 🤞</p>
 <p><span class="news-date">Aug 2023</span> Attending KCCV 2023 🇰🇷</p>
 <p><span class="news-date">Feb 2023</span> Attending HCI Korea 2023 🇰🇷</p>
