@@ -65,8 +65,8 @@ I aim to support both humans and machines in learning to foster the skills, mind
     </div>
   </div>
   <div class="paper-content">
-    <div class="paper-title"><strong>Can We Delegate Learning to Automation?: A Comparative Study of LLM Chatbots, Search Engines, and Books</strong></div>
-    <div class="paper-authors"><span class="author-name">Yeonsun Yang</span>, Ahyeon Shin, Mincheol Kang, Jiheon Kang, and Jean Y. Song</div>
+    <div class="paper-title"><strong>Easy Come, Easy Go? Examining the Perceptions and Learning Effects of LLM-based Chatbot in the Context of Search-as-Learning</strong></div>
+    <div class="paper-authors"><span class="author-name">Yeonsun Yang</span>, Ahyeon Shin, Mincheol Kang, Jiheon Kang, Xu Wang, and Jean Y. Song</div>
     <div class="paper-venue">Nonarchival preprint
      <span class="paper-links">
         <a href="/assets/pdf/SAL.pdf" class="paper-link" target="_blank">PDF</a>
