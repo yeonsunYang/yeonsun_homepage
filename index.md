@@ -93,7 +93,7 @@ I aim to support both humans and machines in learning to foster the skills, mind
   <div class="paper-content">
     <div class="paper-title"><strong>Caught by Surprise, Caught by Culture: Bridging Facial Emotion Recognition and Interpretation of Surprise Across Cultures </strong></div>
     <div class="paper-authors">Ha Eun Jang, <span class="author-name">Yeonsun Yang</span>, and Jean Y. Song</div>
-    <div class="paper-venue">IUI 2026 (Conditionally accepted)
+    <div class="paper-venue">IUI 2026 (Conditionally Accepted)
     </div>
   </div>
 </div>
