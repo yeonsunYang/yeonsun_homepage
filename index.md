@@ -8,7 +8,8 @@ I aim to support both humans and machines in learning to foster the skills, mind
 ## News
 
 <div class="news-box">
-<p><span class="news-date">Dec 2025</span> Our paper is conditionally accepted to IUI 2026! 🥳</p>
+<p><span class="news-date">Jan 2026</span> Our paper is conditionally accepted to CHI 2026! 🥳</p>
+<p><span class="news-date">Dec 2025</span> Our paper is accepted to IUI 2026! 🥳</p>
 <p><span class="news-date">Nov 2025</span> New chapter with DIAG Lab at Yonsei Univ in Songdo 🏙️</p>
 <p><span class="news-date">Mar 2025</span> Thrilled to start a research internship @NAVER AI Lab 💼</p>
 <p><span class="news-date">Feb 2025</span> Passed my Ph.D. qualifying exam 🎓</p>
@@ -29,30 +30,6 @@ I aim to support both humans and machines in learning to foster the skills, mind
 <hr>
 
 ## Archived Preprints
-
-<div class="paper-item">
-  <div class="paper-image">
-    <div class="paper-image-link" data-image="/assets/img/lingoq_teaser.jpg">
-      <img src="/assets/img/lingoq_teaser.jpg" alt="Paper thumbnail">
-      <div class="image-overlay">
-        <i class="fa-solid fa-magnifying-glass-plus"></i>
-      </div>
-    </div>
-  </div>
-  <div class="paper-content">
-    <div class="paper-title"><strong>LingoQ: Bridging the Gap between ESL Learning and Work through AI-Generated Work-Related Quizzes</strong></div>
-    <div class="paper-authors"><span class="author-name">Yeonsun Yang</span>, Sang Won Lee, Jean Y. Song, Sangdoo Yun, and Young-Ho Kim</div>
-    <div class="paper-venue">
-      Nonarchival preprint
-      <span class="paper-links">
-        <a href="/assets/pdf/LingoQ.pdf" class="paper-link" target="_blank">PDF</a>
-        <a href="https://arxiv.org/abs/2509.17477" class="paper-link" target="_blank">arXiv</a>
-        <a href="https://www.youtube.com/watch?v=gfvj9d8lVZo" class="paper-link" target="_blank">Demo video</a>
-      </span>
-    </div>
-  </div>
-</div>
-
 
 
 <div class="paper-item">
@@ -81,6 +58,30 @@ I aim to support both humans and machines in learning to foster the skills, mind
 
 ## International Conference Papers
 
+
+<div class="paper-item">
+  <div class="paper-image">
+    <div class="paper-image-link" data-image="/assets/img/lingoq_teaser.jpg">
+      <img src="/assets/img/lingoq_teaser.jpg" alt="Paper thumbnail">
+      <div class="image-overlay">
+        <i class="fa-solid fa-magnifying-glass-plus"></i>
+      </div>
+    </div>
+  </div>
+  <div class="paper-content">
+    <div class="paper-title"><strong>LingoQ: Bridging the Gap between ESL Learning and Work through AI-Generated Work-Related Quizzes</strong></div>
+    <div class="paper-authors"><span class="author-name">Yeonsun Yang</span>, Sang Won Lee, Jean Y. Song, Sangdoo Yun, and Young-Ho Kim</div>
+    <div class="paper-venue">
+      ACM CHI 2026 (Conditionally Accepted)
+      <span class="paper-links">
+        <a href="/assets/pdf/LingoQ.pdf" class="paper-link" target="_blank">PDF</a>
+        <a href="https://arxiv.org/abs/2509.17477" class="paper-link" target="_blank">arXiv</a>
+        <a href="https://www.youtube.com/watch?v=gfvj9d8lVZo" class="paper-link" target="_blank">Demo video</a>
+      </span>
+    </div>
+  </div>
+</div>
+
 <div class="paper-item">
 <div class="paper-image">
     <div class="paper-image-link" data-image="/assets/img/IUI_teaser.jpg">
@@ -93,7 +94,7 @@ I aim to support both humans and machines in learning to foster the skills, mind
   <div class="paper-content">
     <div class="paper-title"><strong>Caught by Surprise, Caught by Culture: Bridging Facial Emotion Recognition and Interpretation of Surprise Across Cultures </strong></div>
     <div class="paper-authors">Ha Eun Jang, <span class="author-name">Yeonsun Yang</span>, and Jean Y. Song</div>
-    <div class="paper-venue">ACM IUI 2026 (Conditionally Accepted)
+    <div class="paper-venue">ACM IUI 2026 (To Appear)
     </div>
   </div>
 </div>
