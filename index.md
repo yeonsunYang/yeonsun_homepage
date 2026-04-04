@@ -8,7 +8,7 @@ I aim to support both humans and machines in learning to foster the skills, mind
 ## News
 
 <div class="news-box">
-<p><span class="news-date">Jan 2026</span> Our paper is conditionally accepted to CHI 2026! 🥳</p>
+<p><span class="news-date">Feb 2026</span> Our papers are accepted to CHI 2026! 🥳</p>
 <p><span class="news-date">Dec 2025</span> Our paper is accepted to IUI 2026! 🥳</p>
 <p><span class="news-date">Nov 2025</span> New chapter with DIAG Lab at Yonsei Univ in Songdo 🏙️</p>
 <p><span class="news-date">Mar 2025</span> Thrilled to start a research internship @NAVER AI Lab 💼</p>
@@ -56,7 +56,7 @@ I aim to support both humans and machines in learning to foster the skills, mind
 
 
 
-## International Conference Papers
+## Conference Papers
 
 
 <div class="paper-item">
@@ -72,11 +72,14 @@ I aim to support both humans and machines in learning to foster the skills, mind
     <div class="paper-title"><strong>LingoQ: Bridging the Gap between ESL Learning and Work through AI-Generated Work-Related Quizzes</strong></div>
     <div class="paper-authors"><span class="author-name">Yeonsun Yang</span>, Sang Won Lee, Jean Y. Song, Sangdoo Yun, and Young-Ho Kim</div>
     <div class="paper-venue">
-      ACM CHI 2026 (Conditionally Accepted)
+      ACM CHI 2026
       <span class="paper-links">
         <a href="/assets/pdf/LingoQ.pdf" class="paper-link" target="_blank">PDF</a>
+        <a href="https://naver-ai.github.io/lingo-q/" class="paper-link" target="_blank">Web</a>
+        <a href="https://www.youtube.com/watch?v=sUteJ1wQinM" class="paper-link" target="_blank">Demo (Eng)</a>
+        <a href="https://www.youtube.com/watch?v=c6rGHKAT7Xs" class="paper-link" target="_blank">Demo (Kor)</a>
         <a href="https://arxiv.org/abs/2509.17477" class="paper-link" target="_blank">arXiv</a>
-        <a href="https://www.youtube.com/watch?v=gfvj9d8lVZo" class="paper-link" target="_blank">Demo video</a>
+        <a href="https://github.com/diag-dgist/FindtheBot" class="paper-link" target="_blank">GitHub</a>
       </span>
     </div>
   </div>
@@ -94,7 +97,24 @@ I aim to support both humans and machines in learning to foster the skills, mind
   <div class="paper-content">
     <div class="paper-title"><strong>Caught by Surprise, Caught by Culture: Bridging Facial Emotion Recognition and Interpretation of Surprise Across Cultures </strong></div>
     <div class="paper-authors">Ha Eun Jang, <span class="author-name">Yeonsun Yang</span>, and Jean Y. Song</div>
-    <div class="paper-venue">ACM IUI 2026 (To Appear)
+    <div class="paper-venue">ACM IUI 2026
+    <span class="paper-links">
+        <a href="https://dl.acm.org/doi/10.1145/3742413.3789169" class="paper-link" target="_blank">DOI</a>
+        <a href="/assets/pdf/Caughtbysurprise.pdf" class="paper-link" target="_blank">PDF</a>
+      </span>
+    </div>
+  </div>
+</div>
+
+<div class="paper-item">
+  <div class="paper-content">
+    <div class="paper-title"><strong>Analysis of Question-and-Answer Interactions with LLM-based Chatbots in Concept Learning: an Academic Performance Perspective</strong></div>
+    <div class="paper-authors"><span class="author-name">Yeonsun Yang*</span>, Ahyeon Shin*, and Jean Y. Song (* Equal contribution)</div>
+    <div class="paper-venue">HCI Korea 2025
+    <span class="paper-links">
+        <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12131618" class="paper-link" target="_blank">DOI</a>
+         <a href="/assets/pdf/Analysis_of_QnA.pdf" class="paper-link" target="_blank">PDF</a>
+      </span>
     </div>
   </div>
 </div>
@@ -117,22 +137,23 @@ I aim to support both humans and machines in learning to foster the skills, mind
         <a href="https://dl.acm.org/doi/10.1145/3613904.3642880" class="paper-link" target="_blank">DOI</a>
         <a href="/assets/pdf/Find_the_bot.pdf" class="paper-link" target="_blank">PDF</a>
         <a href="https://github.com/diag-dgist/FindtheBot" class="paper-link" target="_blank">GitHub</a>
-        <a href="https://youtu.be/vjxHJvrnhFk" class="paper-link" target="_blank">Demo video</a>
+        <a href="https://youtu.be/vjxHJvrnhFk" class="paper-link" target="_blank">Demo</a>
         <a href="https://youtu.be/owZIcnf9mhw?si=jep2gEx9L3oaa7dr" class="paper-link" target="_blank">Presentation</a>
       </span>
     </div>
   </div>
 </div>
 
-## Domestic Conference Papers
+## Adjunct Publications
 
 <div class="paper-item">
   <div class="paper-content">
-    <div class="paper-title"><strong>Analysis of Question-and-Answer Interactions with LLM-based Chatbots in Concept Learning: an Academic Performance Perspective</strong></div>
-    <div class="paper-authors"><span class="author-name">Yeonsun Yang*</span>, Ahyeon Shin*, and Jean Y. Song (* Equal contribution)</div>
-    <div class="paper-venue">HCI Korea 2025
+    <div class="paper-title"><strong>Toward Supporting Students' Metacognitive Questioning in GenAI-Assisted Learning</strong></div>
+    <div class="paper-authors"><span class="author-name">Yeonsun Yang</span>, Anastasia Arkhipenkova, and Jean Y. Song</div>
+    <div class="paper-venue">ACM CHI 2026 Workshop
     <span class="paper-links">
-        <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12131618" class="paper-link" target="_blank">DOI</a>
+        <a href="/assets/pdf/Metacognitive_questioning.pdf" class="paper-link" target="_blank">PDF</a>
+        <a href="https://criticalaied.netlify.app/" class="paper-link" target="_blank">Workshop homepage</a>
       </span>
     </div>
   </div>
