@@ -153,7 +153,7 @@ I aim to support both humans and machines in learning to foster the skills, mind
     <div class="paper-venue">ACM CHI 2026 Workshop
     <span class="paper-links">
         <a href="/assets/pdf/CHI26_workshop_metacognitive_questioning.pdf" class="paper-link" target="_blank">PDF</a>
-        <a href="https://criticalaied.netlify.app/" class="paper-link" target="_blank">Workshop homepage</a>
+        <a href="https://criticalaied.netlify.app/" class="paper-link" target="_blank">Workshop page</a>
       </span>
     </div>
   </div>
