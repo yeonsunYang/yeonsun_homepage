@@ -70,7 +70,7 @@ My research lies at the intersection of Human-Computer Interaction (HCI), the le
     </div>
   </div>
   <div class="paper-content">
-    <div class="paper-title"><strong>LingoQ: Bridging the Gap between ESL Learning and Work through AI-Generated Work-Related Quizzes</strong></div>
+    <div class="paper-title"><strong>LingoQ: Bridging the Gap between EFL Learning and Work through AI-Generated Work-Related Quizzes</strong></div>
     <div class="paper-authors"><span class="author-name">Yeonsun Yang</span>, Sang Won Lee, Jean Y. Song, Sangdoo Yun, and Young-Ho Kim</div>
     <div class="paper-venue">
       ACM CHI 2026
