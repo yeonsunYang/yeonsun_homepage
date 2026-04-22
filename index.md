@@ -9,6 +9,7 @@ My research lies at the intersection of Human-Computer Interaction (HCI), the le
 ## News
 
 <div class="news-box">
+<p><span class="news-date">Apr 2026</span> Attending CHI 2026 🏛️🇪🇸</p>
 <p><span class="news-date">Feb 2026</span> Our papers are accepted to CHI 2026! 🥳</p>
 <p><span class="news-date">Dec 2025</span> Our paper is accepted to IUI 2026! 🥳</p>
 <p><span class="news-date">Nov 2025</span> New chapter with DIAG Lab at Yonsei Univ in Songdo 🏙️</p>
@@ -75,6 +76,7 @@ My research lies at the intersection of Human-Computer Interaction (HCI), the le
     <div class="paper-venue">
       ACM CHI 2026
       <span class="paper-links">
+       <a href="https://dl.acm.org/doi/full/10.1145/3772318.3791342" class="paper-link" target="_blank">DOI</a>
         <a href="/assets/pdf/LingoQ.pdf" class="paper-link" target="_blank">PDF</a>
         <a href="https://naver-ai.github.io/lingo-q/" class="paper-link" target="_blank">Web</a>
         <a href="https://www.youtube.com/watch?v=sUteJ1wQinM" class="paper-link" target="_blank">Demo (Eng)</a>
