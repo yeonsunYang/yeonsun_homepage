@@ -9,7 +9,7 @@ My research lies at the intersection of Human-Computer Interaction (HCI), the le
 ## News
 
 <div class="news-box">
-<p><span class="news-date">Jun 2026</span> Awarded a NRF (National Research Foundation) grant for my doctoral research 🥳</p>
+<p><span class="news-date">Jun 2026</span> Awarded a NRF (National Research Foundation) grant for my doctoral research!</p>
 <p><span class="news-date">Jun 2026</span> Attending Festival of Learning 2026 📝🇰🇷</p>
 <p><span class="news-date">Apr 2026</span> Attending CHI 2026 🏛️🇪🇸</p>
 <p><span class="news-date">Feb 2026</span> Our papers are accepted to CHI 2026! 🥳</p>
