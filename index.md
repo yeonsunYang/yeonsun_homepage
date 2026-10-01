@@ -2,14 +2,14 @@
 layout: default
 ---
 
-I’m in the 4th year of a combined master's and Ph.D. program in <a href="https://www.dgist.ac.kr/en_eecs/" class="highlight_info" target="_blank">Electrical Engineering and Computer Science</a> at DGIST. I work with <a href="https://jyskwon.github.io/" class="highlight_info" target="_blank">Prof. Jean Young Song</a> at <a href="https://diag.kr/" class="highlight_info" target="_blank">DIAG (Designing Intelligence Augmentation Group)</a>, Yonsei University. Previously, I was a research intern at <a href="https://clova.ai/ai-research" class="highlight_info" target="_blank">NAVER AI Lab</a>, mentored by <a href="https://younghokim.net/" class="highlight_info" target="_blank">Dr. Young-Ho Kim</a>. 
+I’m a Ph.D. student in <a href="https://www.dgist.ac.kr/en_eecs/" class="highlight_info" target="_blank">Electrical Engineering and Computer Science</a> at DGIST. I work with <a href="https://jyskwon.github.io/" class="highlight_info" target="_blank">Prof. Jean Young Song</a> at <a href="https://diag.kr/" class="highlight_info" target="_blank">DIAG (Designing Intelligence Augmentation Group)</a>, Yonsei University. Previously, I was a research intern at <a href="https://clova.ai/ai-research" class="highlight_info" target="_blank">NAVER AI Lab</a>, mentored by <a href="https://younghokim.net/" class="highlight_info" target="_blank">Dr. Young-Ho Kim</a>. 
 
 My research lies at the intersection of Human-Computer Interaction (HCI), the learning sciences, and psychology. I aim to support people in developing the cognitive and psychosocial capacities that contribute to well-being across school, work, and everyday life. I design and evaluate AI-infused interactive systems that help users learn and stay engaged, grounded in a deep understanding of their needs and emerging design opportunities.
 
 ## News
 
 <div class="news-box">
-<p><span class="news-date">Jun 2026</span> Awarded a NRF (National Research Foundation) grant for my doctoral research!</p>
+<p><span class="news-date">Aug 2026</span> Awarded a NRF (National Research Foundation) grant for my doctoral research!</p>
 <p><span class="news-date">Jun 2026</span> Attending Festival of Learning 2026 📝🇰🇷</p>
 <p><span class="news-date">Apr 2026</span> Attending CHI 2026 🏛️🇪🇸</p>
 <p><span class="news-date">Feb 2026</span> Our papers are accepted to CHI 2026! 🥳</p>
