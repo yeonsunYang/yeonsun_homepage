@@ -84,7 +84,7 @@ My research lies at the intersection of Human-Computer Interaction (HCI), the le
         <a href="https://www.youtube.com/watch?v=sUteJ1wQinM" class="paper-link" target="_blank">Demo (Eng)</a>
         <a href="https://www.youtube.com/watch?v=c6rGHKAT7Xs" class="paper-link" target="_blank">Demo (Kor)</a>
         <a href="https://arxiv.org/abs/2509.17477" class="paper-link" target="_blank">arXiv</a>
-        <a href="https://github.com/diag-dgist/FindtheBot" class="paper-link" target="_blank">GitHub</a>
+        <a href="https://github.com/naver-ai/lingoque-monorepo" class="paper-link" target="_blank">GitHub</a>
       </span>
     </div>
   </div>
