@@ -46,7 +46,7 @@ My research lies at the intersection of Human-Computer Interaction (HCI), the le
     </div>
   </div>
   <div class="paper-content">
-    <div class="paper-title"><strong>Easy Come, Easy Go? Examining the Perceptions and Learning Effects of LLM-based Chatbot in the Context of Search-as-Learning</strong></div>
+    <div class="paper-title"><strong>Faster Search, Uneven Learning: Perceived Benefits and Observed Outcomes in LLM-Assisted Search-as-Learning</strong></div>
     <div class="paper-authors"><span class="author-name">Yeonsun Yang</span>, Ahyeon Shin, Mincheol Kang, Jiheon Kang, Xu Wang, and Jean Y. Song</div>
     <div class="paper-venue">Nonarchival preprint
      <span class="paper-links">
